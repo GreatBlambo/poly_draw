@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.2)
 
-set(APP_NAME hw1)
+set(APP_NAME polydraw)
 
 set(SOURCES main.c
             gl_helpers.c
