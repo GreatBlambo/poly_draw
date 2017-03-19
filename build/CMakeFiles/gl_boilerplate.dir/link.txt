@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/gl_boilerplate.dir/main.c.o CMakeFiles/gl_boilerplate.dir/gl_helpers.c.o CMakeFiles/gl_boilerplate.dir/gl_pixel_display.c.o  -o gl_boilerplate -rdynamic -lGLU -lGL thirdparty/glfw/src/libglfw3.a libglad.a -lrt -lm -ldl -lX11 -lpthread -lXrandr -lXinerama -lXcursor 
